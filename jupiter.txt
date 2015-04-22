@@ -1,2 +1,6 @@
 this is third planet
+<<<<<<< HEAD
 second modification
+=======
+first modification
+>>>>>>> ea14045c0c080c5f0a4c959b19f17e0a8695bb66
